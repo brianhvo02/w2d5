@@ -1,3 +1,6 @@
 [submodule "shakshuka_css"]
 	path = shakshuka_css
 	url = https://github.com/brianhvo02/shakshuka_css.git
+[submodule "flight_project"]
+	path = flight_project
+	url = https://github.com/brianhvo02/flight_project.git
