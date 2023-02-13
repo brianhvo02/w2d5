@@ -4,3 +4,6 @@
 [submodule "flight_project"]
 	path = flight_project
 	url = https://github.com/brianhvo02/flight_project.git
+[submodule "todo_board"]
+	path = todo_board
+	url = https://github.com/brianhvo02/todo_board.git
